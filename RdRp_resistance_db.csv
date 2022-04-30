@@ -88,7 +88,7 @@
 87,Human Enterovirus,EV71,rdrp,Ribavirin,G64T,R,orf1ab,4855,NSP12,T462,2-homologous nuc' resmut observed more than once,Sadeghipour 2013,doi.org/10.1128/JVI.02139-12,A
 88,Human Enterovirus,EV71,rdrp,Ribavirin,S264L,R,orf1ab,5048,NSP12,L655,3-homologous nuc' resmut observed once,Sadeghipour 2013,doi.org/10.1128/JVI.02139-12,A
 89,SARS-CoV-2,,NSP12,Remdesivir,E802D,R,orf1ab,5195,NSP12,E802D,2-homologous nuc' resmut observed more than once,Gandhi 2021,doi.org/10.1101/2021.11.08.21266069,A
-90,SARS-CoV-2,,NSP12,Molnupiravir,S759,cat,orf1ab,5152,NSP12,S759,3-catalytic site,Padhi 2020,doi.org/10.1016/j.isci.2020.101992,A
+90,SARS-CoV-2,,NSP12,Molnupiravir,S759,cat,orf1ab,5152,NSP12,S759,6-catalytic site,Padhi 2020,doi.org/10.1016/j.isci.2020.101992,A
 91,SARS-CoV-2,,NSP12,Molnupiravir,A688,cat,orf1ab,5081,NSP12,A688,6-catalytic site,Padhi 2020,doi.org/10.1016/j.isci.2020.101992,A
 92,SARS-CoV-2,,NSP12,Molnupiravir,N691,cat,orf1ab,5084,NSP12,N691,6-catalytic site,Padhi 2020,doi.org/10.1016/j.isci.2020.101992,A
 93,SARS-CoV-2,,NSP12,Molnupiravir,T687,cat,orf1ab,5080,NSP12,T687,6-catalytic site,Padhi 2020,doi.org/10.1016/j.isci.2020.101992,A
